@@ -15,9 +15,12 @@ Find here some important topics about computer software as a self knowledge refe
 
 - [Building Microservices](https://www.oreilly.com/library/view/building-microservices/9781491950340/), by Sam Newman
 
-### Link references
+### References
 
-- https://www.destroyallsoftware.com/screencasts
+- https://destroyallsoftware.com/screencasts
+- https://martinfowler.com
+- http://extremeprogramming.org or https://www.agilealliance.org/glossary/xp
+- https://wiki.c2.com
 
 ### Updates
 
