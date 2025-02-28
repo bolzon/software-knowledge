@@ -106,4 +106,4 @@ If your model is larger (e.g., 6B parameters) or needs a huge context (e.g., 409
 ---
 
 ### Final Thoughts
-**Context size**, **model weights**, and **number of parameters** are foundational to understanding your model’s resource demands and capabilities. Combine them with the earlier terms (latency, throughput, etc.) to fully evaluate your AI system. If you’ve got specifics about your model (e.g., type, size, task), I can tailor this further—let me know!
+**Context size**, **model weights**, and **number of parameters** are foundational to understanding your model’s resource demands and capabilities. Combine them with the earlier terms (latency, throughput, etc.) to fully evaluate your AI system.
