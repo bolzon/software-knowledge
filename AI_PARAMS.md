@@ -1,6 +1,6 @@
 # AI Parameters
 
-You’re absolutely right to bring up **context size**, **model weights**, and **number of parameters**—these are critical terms when running a new AI model, especially in your setup with a 12GB GPU, TensorRT, and a containerized environment. These concepts directly impact memory usage, performance, and the feasibility of deployment. Let’s dive into these, explain what they mean, why they matter, and how they fit into your scenario, alongside the terms I mentioned earlier.
+Params like **context size**, **model weights**, and **number of parameters** are critical terms when running a new AI model, especially in your setup with a 12GB GPU, TensorRT, and a containerized environment. These concepts directly impact memory usage, performance, and the feasibility of deployment. Let’s dive into these, explain what they mean, why they matter, and how they fit into your scenario, alongside the terms I mentioned earlier.
 
 ---
 
